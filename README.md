@@ -1,7 +1,7 @@
 
 <h1 align="center">Real California Architecture
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TenTypeeek/ImageStore/refs/heads/main/Union_RP.png?token=GHSAT0AAAAAADCW4A3ROGA7OG4XOXFINNTW2AJDARA" height="100" alt="RCA Logo">
+  <img src="https://raw.githubusercontent.com/TenTypeeek/ImageStore/refs/heads/main/Union_RP.png?token=GHSAT0AAAAAADCW4A3ROGA7OG4XOXFINNTW2AJDARA" height="50" alt="RCA Logo">
 </p>
 </h1>
 
